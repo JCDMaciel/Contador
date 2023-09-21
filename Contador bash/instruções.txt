@@ -1,0 +1,12 @@
+Essa aplicação só funciona em linux
+
+O arquivo lista.txt deve conter os nomes dos arquivos fisicos que deseja buscar separados por quebra de linha, este já está preenchido com um exemplo
+
+A aplicação "Buscador.sh" e o arquivo "lista.txt" devem estar dentro da pasta que deve buscar os arquivos da lista, por exemplo, dentro da pasta \versadoDocumento
+
+O resultado se encontrou ou não será impresso em um bloco de notas de nome "resultado.txt" que será criado na pasta do cliente
+
+OBS: 
+
+-Não colocar o arquivo readme.txt na pasta de arquivos
+-Remover Buscador.sh e lista.txt da pasta ao final da execução
